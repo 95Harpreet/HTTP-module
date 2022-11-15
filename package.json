@@ -1,0 +1,16 @@
+{
+  "name": "day16nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2nd.js",
+  "scripts": {
+    "start": "nodemon 2nd.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^2.0.1",
+    "nodemon": "^2.0.20"
+  }
+}
